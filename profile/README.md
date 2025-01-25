@@ -3,6 +3,3 @@
 
 # MIT License
 - This project is licensed under the MIT License.
-
-# Discord server
-- [Discord Server of Nextendo Network](https://discord.gg/W5WE8d3W3K).
